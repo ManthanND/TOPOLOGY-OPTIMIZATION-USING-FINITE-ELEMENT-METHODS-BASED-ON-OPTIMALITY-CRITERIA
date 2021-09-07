@@ -41,7 +41,7 @@ U(Free DoF)=F(Free DoF)/K(Free doF)
 
 
 
-Conclusion:
+## Conclusion:
 The Topology Optimization method using finite element methods based on optimality criteria can be successfully implemented for both Structural and thermal problems.
 The Sigmund-Bendsoe approach to divide the approach using 4 subparts as explained above can be extended to various cases as demonstrated.
 The method can very well be extended to various structures problem like Simply Supported, Cantilever and Multi-load case by suitable modifications in the code.
@@ -56,5 +56,5 @@ Method of Moving average, Density based filtering
 Based on the literature survey and sources referred, the proposed method is efficient than rest of the methods mentioned above.
 
 
-Codes:
+## Codes:
 Visit the report Appendix for all the codes :)
